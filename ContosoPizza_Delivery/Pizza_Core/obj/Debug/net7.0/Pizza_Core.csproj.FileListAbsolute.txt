@@ -1,0 +1,17 @@
+D:\MyProjects\dotnet7_ContosoPizza_Delivery\ContosoPizza_Delivery\Pizza_Core\bin\Debug\net7.0\Pizza_Core.deps.json
+D:\MyProjects\dotnet7_ContosoPizza_Delivery\ContosoPizza_Delivery\Pizza_Core\bin\Debug\net7.0\Pizza_Core.runtimeconfig.json
+D:\MyProjects\dotnet7_ContosoPizza_Delivery\ContosoPizza_Delivery\Pizza_Core\bin\Debug\net7.0\Pizza_Core.dll
+D:\MyProjects\dotnet7_ContosoPizza_Delivery\ContosoPizza_Delivery\Pizza_Core\bin\Debug\net7.0\Pizza_Core.pdb
+D:\MyProjects\dotnet7_ContosoPizza_Delivery\ContosoPizza_Delivery\Pizza_Core\bin\Debug\net7.0\Pizza_Data.dll
+D:\MyProjects\dotnet7_ContosoPizza_Delivery\ContosoPizza_Delivery\Pizza_Core\bin\Debug\net7.0\Pizza_Data.pdb
+D:\MyProjects\dotnet7_ContosoPizza_Delivery\ContosoPizza_Delivery\Pizza_Core\obj\Debug\net7.0\Pizza_Core.csproj.AssemblyReference.cache
+D:\MyProjects\dotnet7_ContosoPizza_Delivery\ContosoPizza_Delivery\Pizza_Core\obj\Debug\net7.0\Pizza_Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyProjects\dotnet7_ContosoPizza_Delivery\ContosoPizza_Delivery\Pizza_Core\obj\Debug\net7.0\Pizza_Core.AssemblyInfoInputs.cache
+D:\MyProjects\dotnet7_ContosoPizza_Delivery\ContosoPizza_Delivery\Pizza_Core\obj\Debug\net7.0\Pizza_Core.AssemblyInfo.cs
+D:\MyProjects\dotnet7_ContosoPizza_Delivery\ContosoPizza_Delivery\Pizza_Core\obj\Debug\net7.0\Pizza_Core.csproj.CoreCompileInputs.cache
+D:\MyProjects\dotnet7_ContosoPizza_Delivery\ContosoPizza_Delivery\Pizza_Core\obj\Debug\net7.0\Pizza_Core.csproj.CopyComplete
+D:\MyProjects\dotnet7_ContosoPizza_Delivery\ContosoPizza_Delivery\Pizza_Core\obj\Debug\net7.0\Pizza_Core.dll
+D:\MyProjects\dotnet7_ContosoPizza_Delivery\ContosoPizza_Delivery\Pizza_Core\obj\Debug\net7.0\refint\Pizza_Core.dll
+D:\MyProjects\dotnet7_ContosoPizza_Delivery\ContosoPizza_Delivery\Pizza_Core\obj\Debug\net7.0\Pizza_Core.pdb
+D:\MyProjects\dotnet7_ContosoPizza_Delivery\ContosoPizza_Delivery\Pizza_Core\obj\Debug\net7.0\Pizza_Core.genruntimeconfig.cache
+D:\MyProjects\dotnet7_ContosoPizza_Delivery\ContosoPizza_Delivery\Pizza_Core\obj\Debug\net7.0\ref\Pizza_Core.dll

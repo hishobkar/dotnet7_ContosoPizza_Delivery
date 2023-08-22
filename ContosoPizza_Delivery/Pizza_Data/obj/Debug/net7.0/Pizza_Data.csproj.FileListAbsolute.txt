@@ -1,0 +1,11 @@
+D:\MyProjects\dotnet7_ContosoPizza_Delivery\ContosoPizza_Delivery\Pizza_Data\bin\Debug\net7.0\Pizza_Data.deps.json
+D:\MyProjects\dotnet7_ContosoPizza_Delivery\ContosoPizza_Delivery\Pizza_Data\bin\Debug\net7.0\Pizza_Data.dll
+D:\MyProjects\dotnet7_ContosoPizza_Delivery\ContosoPizza_Delivery\Pizza_Data\bin\Debug\net7.0\Pizza_Data.pdb
+D:\MyProjects\dotnet7_ContosoPizza_Delivery\ContosoPizza_Delivery\Pizza_Data\obj\Debug\net7.0\Pizza_Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyProjects\dotnet7_ContosoPizza_Delivery\ContosoPizza_Delivery\Pizza_Data\obj\Debug\net7.0\Pizza_Data.AssemblyInfoInputs.cache
+D:\MyProjects\dotnet7_ContosoPizza_Delivery\ContosoPizza_Delivery\Pizza_Data\obj\Debug\net7.0\Pizza_Data.AssemblyInfo.cs
+D:\MyProjects\dotnet7_ContosoPizza_Delivery\ContosoPizza_Delivery\Pizza_Data\obj\Debug\net7.0\Pizza_Data.csproj.CoreCompileInputs.cache
+D:\MyProjects\dotnet7_ContosoPizza_Delivery\ContosoPizza_Delivery\Pizza_Data\obj\Debug\net7.0\Pizza_Data.dll
+D:\MyProjects\dotnet7_ContosoPizza_Delivery\ContosoPizza_Delivery\Pizza_Data\obj\Debug\net7.0\refint\Pizza_Data.dll
+D:\MyProjects\dotnet7_ContosoPizza_Delivery\ContosoPizza_Delivery\Pizza_Data\obj\Debug\net7.0\Pizza_Data.pdb
+D:\MyProjects\dotnet7_ContosoPizza_Delivery\ContosoPizza_Delivery\Pizza_Data\obj\Debug\net7.0\ref\Pizza_Data.dll
